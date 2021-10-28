@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\dawsbail\\TestAzureApp\\TestAzureApp.csproj",
+  "FilePath": "c:\\Users\\dawsbail\\TestAzureApp2\\DevOpsPipelineReleaseTest\\TestAzureApp.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,38 +14402,38 @@
   "RootNamespace": "TestAzureApp",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\dawsbail\\TestAzureApp\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\dawsbail\\TestAzureApp\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\dawsbail\\TestAzureApp\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\dawsbail\\TestAzureApp\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\dawsbail\\TestAzureApp\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\dawsbail\\TestAzureApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\dawsbail\\TestAzureApp2\\DevOpsPipelineReleaseTest\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\dawsbail\\TestAzureApp\\Pages\\Error.cshtml",
+      "FilePath": "c:\\Users\\dawsbail\\TestAzureApp2\\DevOpsPipelineReleaseTest\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dawsbail\\TestAzureApp2\\DevOpsPipelineReleaseTest\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dawsbail\\TestAzureApp2\\DevOpsPipelineReleaseTest\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dawsbail\\TestAzureApp2\\DevOpsPipelineReleaseTest\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dawsbail\\TestAzureApp2\\DevOpsPipelineReleaseTest\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\dawsbail\\TestAzureApp2\\DevOpsPipelineReleaseTest\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],
